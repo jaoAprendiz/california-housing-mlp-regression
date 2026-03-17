@@ -3,7 +3,7 @@
 Um projeto prático de Machine Learning focado na estimativa do valor mediano de imóveis no estado da Califórnia utilizando Redes Neurais Artificiais (Perceptron de Múltiplas Camadas - MLP). 
 
 ## 🎓 Créditos e Contexto Acadêmico
-Este case foi desenvolvido como parte do módulo de Inteligência Artificial e Machine Learning (Generative AI for Engineering) do curso de Engenharia de Software da FIAP[cite: 1, 2]. 
+Este case foi desenvolvido como parte do módulo de Inteligência Artificial e Machine Learning (Generative AI for Engineering) do curso de Engenharia de Software da FIAP. 
 A estrutura base do código e a fundamentação teórica deste projeto foram ministradas e disponibilizadas pelo **Prof. Dr. Francisco Elânio**. Este repositório representa a minha implementação, organização e análise em cima desse material rico para compor meu portfólio prático.
 
 ---
